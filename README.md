@@ -1,2 +1,2 @@
-# illuminatorcologne-github-io
+# IlluminatorCologne
 Published github pages
