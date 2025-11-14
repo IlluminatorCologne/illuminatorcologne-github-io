@@ -10,5 +10,7 @@ plugins:
 - jekyll-remote-theme
 
 
-#show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+# Do not show download links
+show_downloads: false
+
 #google_analytics: [Your Google Analytics tracking ID]
