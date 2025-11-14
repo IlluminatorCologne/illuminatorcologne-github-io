@@ -1,4 +1,14 @@
-theme: jekyll-theme-minimal
+# general config
 title: IlluminatorCologne
 description: Github Pages
 baseurl: ""
+
+# theme config
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
